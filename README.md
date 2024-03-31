@@ -17,7 +17,7 @@
 
 ## INJ Benchmark
 ### Data
-- Data Source : ECBD-2021 split [`Onoe et al., 2022`](https://aclanthology.org/2022.findings-naacl.52/)
+- Data Source : ECBD-2021-23 splits [`Onoe et al., 2022`](https://aclanthology.org/2022.findings-naacl.52/)
 - Preprocessed Data: [`data/ecbd`](data/ecbd)
 ### Information Injection
 ``` bash
