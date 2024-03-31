@@ -1,11 +1,16 @@
-## Do Localization Methods Actually Localize Memorized Data in LLMs?  <br>  A Tale of Two Benchmarks
-
 ![Python](https://img.shields.io/badge/python-3.9-green.svg?style=plastic)
 ![PyTorch](https://img.shields.io/badge/pytorch-1.13-green.svg?style=plastic)
 ![transformers](https://img.shields.io/badge/transformers-4.31.0-green.svg?style=plastic)
 ![GPU](https://img.shields.io/badge/RTX-A6000-green.svg?style=plastic)
 
-- ```$ pip install -r requirements.txt```
+## Do Localization Methods Actually Localize Memorized Data in LLMs? <br> A Tale of Two Benchmarks (NAACL 2024)
+> Ting-Yun Chang, Jesse Thomason, and Robin Jia<br>
+> :scroll: https://arxiv.org/abs/2311.09060
+
+## Content
+
+
+- Quick Start: ```$ pip install -r requirements.txt```
 - [INJ Benchmark](#inj-benchmark)
   - Data 
   - Information Injection
@@ -17,7 +22,7 @@
 
 ## INJ Benchmark
 ### Data
-- Data Source : ECBD-2021-23 splits [`Onoe et al., 2022`](https://aclanthology.org/2022.findings-naacl.52/)
+- Data Source : ECBD dataset from [`Onoe et al., 2022`](https://aclanthology.org/2022.findings-naacl.52/), see [`README`](data/ecbd/README.md)
 - Preprocessed Data: [`data/ecbd`](data/ecbd)
 ### Information Injection
 ``` bash
