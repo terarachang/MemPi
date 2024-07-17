@@ -5,6 +5,8 @@
 
 ## Do Localization Methods Actually Localize Memorized Data in LLMs? <br> A Tale of Two Benchmarks (NAACL 2024)
 > Ting-Yun Chang, Jesse Thomason, and Robin Jia<br>
+> :film_strip: https://www.youtube.com/watch?v=V2i8CemZZHQ
+
 > :scroll: https://arxiv.org/abs/2311.09060
 
 ## Content
