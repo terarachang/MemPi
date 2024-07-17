@@ -48,7 +48,7 @@ $ bash script/ecbd/METHOD_NAME.sh MODEL
 - Data Source: Please follow [`EleutherAI's instructions`](https://github.com/EleutherAI/pythia#exploring-the-dataset) to download pretrained data in batches
 - Identify memorized data with our filters: ```$ bash script/pile/find.sh MODEL```
     - MODEL: [`EleutherAI/pythia-2.8b-deduped-v0`](https://huggingface.co/EleutherAI/pythia-2.8b-deduped-v0) or [`EleutherAI/pythia-6.9b-deduped`](https://huggingface.co/EleutherAI/pythia-6.9b-deduped)
-- We release our collected data at [`data/pile/EleutherAI`](data/pile/EleutherAI)
+- We release our collected data at [`data/pile`](data/pile)
 #### Data memorized by GPT2-XL
 - We release our manually collected data at [`data/manual/memorized_data-gpt2-xl.jsonl`](data/manual/memorized_data-gpt2-xl.jsonl)
 #### Pretrained sequences for perplexity
